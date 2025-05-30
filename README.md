@@ -25,7 +25,7 @@ This project involves the design, simulation, and prototyping of a 8-segment LED
 
 ## Preview
 
-![3D PCB Top](3D_Top.png)
+![3D PCB Top](https://github.com/rastrocchia46/VU-Meter-project/blob/main/3D_Top.png)
 ![3D PCB Bottom](3D_Bottom.png)
 
 ---
