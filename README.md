@@ -45,6 +45,25 @@ This project involves the design, simulation, and prototyping of a 8-segment LED
 
 ---
 
+## ✅ Final Assembly & Testing
+
+The VU Meter project has been successfully completed through all design and testing phases.
+
+### 🛠 Key Milestones:
+- PCB printed and assembled using Sn96.5/Ag3.0/Cu0.5 solder paste and a hot air rework station (BST-863)
+- Full component soldering completed manually
+- Output visualised through 8-segment LED scale driven by LM3914
+
+### 📸 Final Result:
+![Assembled PCB - Top View](./images/final_build/vu_meter_top.jpg)
+![Testing Phase](./images/final_build/vu_meter_testing.jpg)
+
+### 📄 Report:
+Download the complete final project report here:  
+[📥 VU_Meter_Project_Report_STROCCHIA.pdf](./VU_Meter_Project_Report_STROCCHIA.pdf)
+
+---
+
 ## Author
 Raffaele Strocchia – MSc Electronic Engineering  
 Double Degree: Università di Napoli Federico II / Politechnika Łódzka  
